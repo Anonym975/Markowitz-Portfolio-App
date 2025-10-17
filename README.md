@@ -5,7 +5,7 @@ A Streamlit web app that applies **Markowitz Modern Portfolio Theory** to help u
 ---
 
 ## 🚀 Live Demo
-👉 [Open the App on Streamlit Cloud](https://markowitz-portfolio-app-anonym975.streamlit.app)
+👉 [Open the App on Streamlit Cloud](https://anonym975-markowitz-portfolio-app-app-hfqbs4.streamlit.app/)
 
 ---
 
